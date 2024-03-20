@@ -1,0 +1,17 @@
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\bin\Debug\net8.0\RabbitMq.exe
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\bin\Debug\net8.0\RabbitMq.deps.json
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\bin\Debug\net8.0\RabbitMq.runtimeconfig.json
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\bin\Debug\net8.0\RabbitMq.dll
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\bin\Debug\net8.0\RabbitMq.pdb
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.csproj.AssemblyReference.cache
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.AssemblyInfoInputs.cache
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.AssemblyInfo.cs
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.csproj.Up2Date
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.dll
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\refint\RabbitMq.dll
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.pdb
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\RabbitMq.genruntimeconfig.cache
+C:\Users\shipp\OneDrive\Documentos\GitHub\RabbitMqPoc\RabbitMq\RabbitMq\obj\Debug\net8.0\ref\RabbitMq.dll
